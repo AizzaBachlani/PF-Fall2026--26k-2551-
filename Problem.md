@@ -1,8 +1,18 @@
-# Even or Odd Algorithm
-1. Start
-2. Take an integer number as input from the user
-3. Divide the number by 2 and store the remainder
-4. If the remainder is 0, the number is Even
-5. Otherwise, the number is Odd
-6. Display the result
-7. Stop
+# \# Algorithm to Determine Whether a Number is Even or Odd
+
+# 
+
+# 1\. Start the algorithm.
+
+# 2\. Ask the user to enter a number.
+
+# 3\. Take the number entered by the user.
+
+# 4\. Divide the number by 2 and check the remainder.
+
+# 5\. If the remainder is 0, display "The number is even."
+
+# 6\. Otherwise, display "The number is odd."
+
+# 7\. End the algorithm.
+
